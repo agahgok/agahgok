@@ -18,7 +18,7 @@
 
 <!-- ========================= HAKKIMDA (About Me) ========================= -->
 <p align="center">
-  <strong>🌱 Hâlihazırda Çalıştığım Konular:</strong> Kotlin, Java (Spring Boot), Python, OpenCV, PyTorch, TensorFlow  
+  <strong>🌱 Hâlihazırda Çalıştığım Konular:</strong> Kotlin, Python, OpenCV, PyTorch, TensorFlow  
   <br />
   <strong>💬 Konuşabileceğiniz Konular:</strong> AI, Bilgisayarla Görü (Computer Vision), Android Geliştirme, Derin Öğrenme  
   <br />
@@ -67,13 +67,6 @@
     width="36"
     height="36"
   />&nbsp;
-  <!-- Java -->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="Java"
-    width="36"
-    height="36"
-  />&nbsp;
   <!-- Firebase -->
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
@@ -85,13 +78,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
     alt="Git"
-    width="36"
-    height="36"
-  />&nbsp;
-  <!-- Gradle -->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg"
-    alt="Gradle"
     width="36"
     height="36"
   />&nbsp;
@@ -134,13 +120,6 @@
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"
     alt="OpenCV"
-    width="36"
-    height="36"
-  />&nbsp;
-  <!-- PyQt -->
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pyqt/pyqt-original.svg"
-    alt="PyQt"
     width="36"
     height="36"
   />&nbsp;
@@ -187,7 +166,7 @@
       </a>
     </strong>
     <br />
-    PyQt ve pytube tabanlı masaüstü uygulama ile YouTube videolarını indirmenizi sağlar.  
+    Pytube tabanlı masaüstü uygulama ile YouTube videolarını indirmenizi sağlar.  
     <em>(🔗 Python, 🖥️ GUI, 📥 Downloader)</em>
   </li>
   <br />
