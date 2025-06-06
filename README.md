@@ -1,4 +1,4 @@
-<!-- ========================= BAŞLIK ve HIZLI TANITIM ========================= -->
+<!-- ========================= HEADER and QUICK INTRODUCTION ========================= -->
 <h1 align="center">
   Hi 👋, I’m <span style="color:#4CAF50">Aga﻿h Gök</span>
 </h1>
@@ -6,7 +6,7 @@
   <em>An AI & Mobile Developer from Turkey</em>
 </p>
 
-<!-- ========================= PROFİL GÖRÜNTÜ SAYACI ========================= -->
+<!-- ========================= PROFILE VIEW COUNTER ========================= -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=agahgok&label=Profile%20views&color=0e75b6&style=flat"
@@ -16,18 +16,18 @@
 
 ---
 
-<!-- ========================= HAKKIMDA (About Me) ========================= -->
+<!-- ========================= ABOUT ME ========================= -->
 <p align="center">
-  <strong>🌱 Hâlihazırda Çalıştığım Konular:</strong> Kotlin, Python, OpenCV, PyTorch, TensorFlow  
+  <strong>🌱 Currently Working on:</strong> Kotlin, Python, OpenCV, PyTorch, TensorFlow  
   <br />
-  <strong>💬 Konuşabileceğiniz Konular:</strong> AI, Bilgisayarla Görü (Computer Vision), Android Geliştirme, Derin Öğrenme  
+  <strong>💬 Topics to Talk About:</strong> AI, Computer Vision, Android Development, Deep Learning  
   <br />
-  <strong>📫 Bana Ulaşın:</strong> <a href="mailto:agahgok@gmail.com">agahgok@gmail.com</a>
+  <strong>📫 How to Reach Me:</strong> <a href="mailto:agahgok@gmail.com">agahgok@gmail.com</a>
 </p>
 
 ---
 
-<!-- ========================= SOSYAL MEDYA BAĞLANTILARI ========================= -->
+<!-- ========================= SOCIAL MEDIA LINKS ========================= -->
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/agahgok" target="_blank">
@@ -57,7 +57,7 @@
 
 ---
 
-<!-- ========================= DİLLER ve ARAÇLAR (LANGUAGES & TOOLS) ========================= -->
+<!-- ========================= LANGUAGES & TOOLS ========================= -->
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <!-- Kotlin -->
@@ -125,15 +125,15 @@
   />&nbsp;
 </p>
 <p align="center">
-  <em>Diğer Teknolojiler:</em> Compose, XML, MVVM, Android SDK, TensorRT, CUDA & cuDNN
+  <em>Other Technologies:</em> Compose, XML, MVVM, Android SDK, TensorRT, CUDA & cuDNN
 </p>
 
 ---
 
-<!-- ========================= ÖNE ÇIKAN PROJELER (FEATURED PROJECTS) ========================= -->
+<!-- ========================= FEATURED PROJECTS ========================= -->
 <h2 align="center">🛠️ Featured Projects</h2>
 <p align="center">
-  Aşağıdaki projeler, GitHub profilimde öne çıkan ve üzerinde aktif çalıştığım önemli çalışmalardır.
+  The following projects are some of the most important ones I’m actively working on.
 </p>
 
 <ul>
@@ -144,7 +144,7 @@
       </a>
     </strong>
     <br />
-    Gerçek zamanlı nesne algılama uygulaması. Kotlin + OpenCV + YoloV8 kullanılarak Android ortamında geliştirilmiştir.  
+    A real-time object detection application built with Kotlin, OpenCV, and YoloV8 for Android.  
     <em>(🔗 Kotlin, 📱 Android, 📷 Computer Vision)</em>
   </li>
   <br />
@@ -155,7 +155,7 @@
       </a>
     </strong>
     <br />
-    OpenCV ve KMeans algoritmasıyla resimlerdeki baskın renkleri tespit eden Jupyter Notebook projesi.  
+    A Jupyter Notebook project that detects dominant colors in images using OpenCV and KMeans algorithm.  
     <em>(🔗 Python, 📊 Data Science, 🎨 Image Processing)</em>
   </li>
   <br />
@@ -166,7 +166,7 @@
       </a>
     </strong>
     <br />
-    Pytube tabanlı masaüstü uygulama ile YouTube videolarını indirmenizi sağlar.  
+    A desktop application built with PyQt and Pytube that allows you to download YouTube videos.  
     <em>(🔗 Python, 🖥️ GUI, 📥 Downloader)</em>
   </li>
   <br />
@@ -177,14 +177,14 @@
       </a>
     </strong>
     <br />
-    Android barkod tarama uygulaması. ML Kit & Google Search API kullanılarak ürün bilgilerini çeker ve kullanıcıya gösterir.  
+    An Android barcode scanning application that fetches product information using ML Kit & Google Search API.  
     <em>(🔗 Kotlin, 📱 Android, 🤖 ML Kit)</em>
   </li>
 </ul>
 
 ---
 
-<!-- ========================= DİNLENEN DİLLER (MOST USED LANGUAGES) ========================= -->
+<!-- ========================= MOST USED LANGUAGES ========================= -->
 <h2 align="center">📊 Most Used Languages</h2>
 <div align="center">
   <img
@@ -195,7 +195,7 @@
 
 ---
 
-<!-- ========================= GITHUB İSTATİSTİKLERİ (GITHUB STATS) ========================= -->
+<!-- ========================= GITHUB STATS ========================= -->
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img
@@ -206,8 +206,8 @@
 
 ---
 
-<!-- ========================= GITHUB STREAK STATS (OPSİYONEL) ========================= -->
-<h2 align="center">🔥 GitHub Streak</h2>
+<!-- ========================= GITHUB STREAK STATS (OPTIONAL) ========================= -->
+<h2 align="center">🔥 GitHub Streak Stats</h2>
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=agahgok&theme=dark&hide_border=true"
@@ -217,14 +217,14 @@
 
 ---
 
-<!-- ========================= İLETİŞİM ve TEŞEKKÜR ========================= -->
+<!-- ========================= CONTACT & THANKS ========================= -->
 <p align="center">
-  <strong>📬 İletişim: </strong>
+  <strong>📬 Contact: </strong>
   <a href="mailto:agahgok@gmail.com">agahgok@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/agahgok" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://medium.com/@agahgok" target="_blank">Medium</a>
 </p>
 
 <p align="center">
-  Eğer profilim ilginizi çektiyse ⭐ atmayı ve takip etmeyi unutmayın!
+  If you enjoy my profile, don’t forget to ⭐ star and follow!
 </p>
