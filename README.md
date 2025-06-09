@@ -184,28 +184,6 @@
 
 ---
 
-<!-- ========================= MOST USED LANGUAGES ========================= -->
-<h2 align="center">📊 Most Used Languages</h2>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agahgok&layout=compact&theme=dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</div>
-
----
-
-<!-- ========================= GITHUB STATS ========================= -->
-<h2 align="center">📈 GitHub Stats</h2>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=agahgok&show_icons=true&theme=dark&count_private=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</div>
-
----
-
 <!-- ========================= GITHUB STREAK STATS (OPTIONAL) ========================= -->
 <h2 align="center">🔥 GitHub Streak Stats</h2>
 <div align="center">
