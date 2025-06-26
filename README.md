@@ -184,17 +184,6 @@
 
 ---
 
-<!-- ========================= GITHUB STREAK STATS (OPTIONAL) ========================= -->
-<h2 align="center">🔥 GitHub Streak Stats</h2>
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=agahgok&theme=dark&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</div>
-
----
-
 <!-- ========================= CONTACT & THANKS ========================= -->
 <p align="center">
   <strong>📬 Contact: </strong>
