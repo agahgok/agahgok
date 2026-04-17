@@ -30,7 +30,15 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,python,pytorch,tensorflow,opencv,firebase,git,linux" alt="Skills" />
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -43,12 +51,3 @@
 | 🎨 **[Color-Detection-and-Analysis](https://github.com/agahgok/Color-Detection-and-Analysis-with-OpenCV-and-KMeans)** | A Jupyter Notebook project that detects dominant colors in images using OpenCV and KMeans algorithm. | `Python`, `Data Science`, `OpenCV` |
 | 📥 **[YouTube_Video_Downloader](https://github.com/agahgok/YouTube_Video_Downloader)** | A desktop application built with PyQt and Pytube to download YouTube videos. | `Python`, `GUI`, `Pytube` |
 | 🤖 **[KotlinBarcodeScanner](https://github.com/agahgok/KotlinBarcodeScanner)** | An Android barcode scanning application that fetches product information using ML Kit & Google Search API. | `Kotlin`, `Android`, `ML Kit` |
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agahgok&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&icon_color=4CAF50&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agahgok&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50" alt="Top Languages" />
-</p>
