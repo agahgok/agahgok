@@ -21,15 +21,17 @@
 
 ### 👨‍💻 About Me
 
-* 🌱 **Currently working on:** Kotlin, Python, OpenCV, PyTorch, TensorFlow
-* 💬 **Interests:** AI, Computer Vision, Android Development, Deep Learning
-* ⚙️ **Other Technologies:** Compose, XML, MVVM, Android SDK, TensorRT, CUDA & cuDNN
+* 🌱 **Currently working on:** Kotlin, Swift, Python, OpenCV, PyTorch, TensorFlow
+* 💬 **Interests:** AI, Computer Vision, Android & iOS Development, Deep Learning
+* ⚙️ **Other Technologies:** SwiftUI, Compose, XML, MVVM, Android SDK, TensorRT, CUDA & cuDNN
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
