@@ -14,6 +14,7 @@ Currently building seamless integrations of AI models into mobile architectures.
 - [**Color-Detection-and-Analysis**](https://github.com/agahgok/Color-Detection-and-Analysis-with-OpenCV-and-KMeans) — Unsupervised machine learning (KMeans) applied to dominant color extraction via OpenCV.
 - [**YouTube_Video_Downloader**](https://github.com/agahgok/YouTube_Video_Downloader) — Desktop application to fetch media, powered by PyQt and Pytube.
 - [**KotlinBarcodeScanner**](https://github.com/agahgok/KotlinBarcodeScanner) — Android scanner implementation integrated with ML Kit and Google Search API.
+- [**VectorConverter**](https://github.com/agahgok/VectorConverter) — A modern, web-based, advanced Raster to SVG (Vector) conversion application.
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/agahgok) &nbsp;·&nbsp; [Medium](https://medium.com/@agahgok) &nbsp;·&nbsp; [agahgok@gmail.com](mailto:agahgok@gmail.com)
