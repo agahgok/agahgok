@@ -6,7 +6,8 @@ Currently building seamless integrations of AI models into mobile architectures.
 ### Focus
 - **AI & ML**: PyTorch, TensorFlow, OpenCV, TensorRT, CUDA
 - **Mobile**: Kotlin, Swift, Android SDK, Compose, SwiftUI
-- **Languages**: Python, Kotlin, Swift
+- **Frontend**: TypeScript, JavaScript, HTML, CSS
+- **Languages**: Python, Kotlin, Swift, TypeScript, JavaScript
 
 ### Featured Work
 - [**Kotlin-YoloV8-Object-Detection**](https://github.com/agahgok/Kotlin-YoloV8-Object-Detection) — Real-time object detection engine for Android utilizing OpenCV and YoloV8.
